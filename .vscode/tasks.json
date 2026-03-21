@@ -1,0 +1,11 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "run-startkit-80",
+			"type": "shell",
+			"command": "cd /home/thinh/proj/btktlt/Start-Kit && /usr/bin/time -o /home/thinh/proj/btktlt/logs/time_startkit_80.txt -f '%E,%x' ./build/lifelong --inputFile ./example_problems/warehouse.domain/warehouse_large_80.json -o /home/thinh/proj/btktlt/results/team_nms/startkit_wait/warehouse_large_80.json > /home/thinh/proj/btktlt/logs/startkit_wait_80.log 2>&1",
+			"isBackground": false
+		}
+	]
+}

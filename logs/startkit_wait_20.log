@@ -1,0 +1,2075 @@
+[2026-03-21 11:21:05.317091] [0x00007f8b94aec780] [info]    [timestep=0] Preprocessing success
+[2026-03-21 11:21:05.317125] [0x00007f8b94aec780] [info]    Task 0 is revealed
+[2026-03-21 11:21:05.317137] [0x00007f8b94aec780] [info]    Task 1 is revealed
+[2026-03-21 11:21:05.317141] [0x00007f8b94aec780] [info]    Task 2 is revealed
+[2026-03-21 11:21:05.317144] [0x00007f8b94aec780] [info]    Task 3 is revealed
+[2026-03-21 11:21:05.317146] [0x00007f8b94aec780] [info]    Task 4 is revealed
+[2026-03-21 11:21:05.317161] [0x00007f8b94aec780] [info]    Task 5 is revealed
+[2026-03-21 11:21:05.317164] [0x00007f8b94aec780] [info]    Task 6 is revealed
+[2026-03-21 11:21:05.317166] [0x00007f8b94aec780] [info]    Task 7 is revealed
+[2026-03-21 11:21:05.317169] [0x00007f8b94aec780] [info]    Task 8 is revealed
+[2026-03-21 11:21:05.317171] [0x00007f8b94aec780] [info]    Task 9 is revealed
+[2026-03-21 11:21:05.317175] [0x00007f8b94aec780] [info]    Task 10 is revealed
+[2026-03-21 11:21:05.317177] [0x00007f8b94aec780] [info]    Task 11 is revealed
+[2026-03-21 11:21:05.317180] [0x00007f8b94aec780] [info]    Task 12 is revealed
+[2026-03-21 11:21:05.317183] [0x00007f8b94aec780] [info]    Task 13 is revealed
+[2026-03-21 11:21:05.317186] [0x00007f8b94aec780] [info]    Task 14 is revealed
+[2026-03-21 11:21:05.317188] [0x00007f8b94aec780] [info]    Task 15 is revealed
+[2026-03-21 11:21:05.317191] [0x00007f8b94aec780] [info]    Task 16 is revealed
+[2026-03-21 11:21:05.317194] [0x00007f8b94aec780] [info]    Task 17 is revealed
+[2026-03-21 11:21:05.317197] [0x00007f8b94aec780] [info]    Task 18 is revealed
+[2026-03-21 11:21:05.317200] [0x00007f8b94aec780] [info]    Task 19 is revealed
+[2026-03-21 11:21:05.317202] [0x00007f8b94aec780] [info]    Task 20 is revealed
+[2026-03-21 11:21:05.317205] [0x00007f8b94aec780] [info]    Task 21 is revealed
+[2026-03-21 11:21:05.317208] [0x00007f8b94aec780] [info]    Task 22 is revealed
+[2026-03-21 11:21:05.317210] [0x00007f8b94aec780] [info]    Task 23 is revealed
+[2026-03-21 11:21:05.317213] [0x00007f8b94aec780] [info]    Task 24 is revealed
+[2026-03-21 11:21:05.317216] [0x00007f8b94aec780] [info]    Task 25 is revealed
+[2026-03-21 11:21:05.317218] [0x00007f8b94aec780] [info]    Task 26 is revealed
+[2026-03-21 11:21:05.317221] [0x00007f8b94aec780] [info]    Task 27 is revealed
+[2026-03-21 11:21:05.317223] [0x00007f8b94aec780] [info]    Task 28 is revealed
+[2026-03-21 11:21:05.317227] [0x00007f8b94aec780] [info]    Task 29 is revealed
+number of new free agents: 20 number of new tasks: 30
+[DefaultPlanner::plan] timing: time_limit=958ms, pibt_time_hint=1ms, flow_budget=946ms, setup_elapsed=946ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:21:06.296063] [0x00007f8b94aec780] [info]    [timestep=0] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:21:07.274529] [0x00007f8b94aec780] [info]    [timestep=10] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:21:08.253103] [0x00007f8b94aec780] [info]    [timestep=20] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:21:09.231589] [0x00007f8b94aec780] [info]    [timestep=30] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:21:10.210089] [0x00007f8b94aec780] [info]    [timestep=40] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:21:11.188578] [0x00007f8b94aec780] [info]    [timestep=50] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:21:12.166946] [0x00007f8b94aec780] [info]    [timestep=60] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:21:13.145429] [0x00007f8b94aec780] [info]    [timestep=70] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:21:14.123880] [0x00007f8b94aec780] [info]    [timestep=80] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:21:15.102208] [0x00007f8b94aec780] [info]    [timestep=90] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:21:16.080698] [0x00007f8b94aec780] [info]    [timestep=100] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:21:17.059161] [0x00007f8b94aec780] [info]    [timestep=110] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:21:18.037563] [0x00007f8b94aec780] [info]    [timestep=120] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:21:19.015890] [0x00007f8b94aec780] [info]    [timestep=130] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:21:19.994283] [0x00007f8b94aec780] [info]    [timestep=140] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:21:20.972626] [0x00007f8b94aec780] [info]    [timestep=150] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:21:21.951073] [0x00007f8b94aec780] [info]    [timestep=160] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:21:22.929452] [0x00007f8b94aec780] [info]    [timestep=170] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:21:23.907862] [0x00007f8b94aec780] [info]    [timestep=180] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:21:24.886275] [0x00007f8b94aec780] [info]    [timestep=190] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:21:25.864693] [0x00007f8b94aec780] [info]    [timestep=200] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:21:26.843171] [0x00007f8b94aec780] [info]    [timestep=210] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:21:27.821634] [0x00007f8b94aec780] [info]    [timestep=220] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:21:28.800057] [0x00007f8b94aec780] [info]    [timestep=230] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:21:29.778367] [0x00007f8b94aec780] [info]    [timestep=240] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:21:30.756854] [0x00007f8b94aec780] [info]    [timestep=250] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:21:31.735223] [0x00007f8b94aec780] [info]    [timestep=260] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:21:32.713655] [0x00007f8b94aec780] [info]    [timestep=270] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:21:33.692173] [0x00007f8b94aec780] [info]    [timestep=280] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:21:34.670606] [0x00007f8b94aec780] [info]    [timestep=290] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:21:35.648964] [0x00007f8b94aec780] [info]    [timestep=300] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:21:36.627412] [0x00007f8b94aec780] [info]    [timestep=310] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:21:37.605829] [0x00007f8b94aec780] [info]    [timestep=320] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:21:38.584335] [0x00007f8b94aec780] [info]    [timestep=330] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:21:39.562722] [0x00007f8b94aec780] [info]    [timestep=340] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:21:40.541176] [0x00007f8b94aec780] [info]    [timestep=350] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:21:41.519577] [0x00007f8b94aec780] [info]    [timestep=360] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:21:42.497910] [0x00007f8b94aec780] [info]    [timestep=370] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:21:43.476315] [0x00007f8b94aec780] [info]    [timestep=380] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:21:44.454708] [0x00007f8b94aec780] [info]    [timestep=390] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:21:45.433211] [0x00007f8b94aec780] [info]    [timestep=400] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:21:46.411672] [0x00007f8b94aec780] [info]    [timestep=410] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:21:47.390115] [0x00007f8b94aec780] [info]    [timestep=420] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:21:48.368481] [0x00007f8b94aec780] [info]    [timestep=430] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:21:49.346833] [0x00007f8b94aec780] [info]    [timestep=440] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:21:50.325198] [0x00007f8b94aec780] [info]    [timestep=450] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:21:51.303663] [0x00007f8b94aec780] [info]    [timestep=460] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:21:52.282001] [0x00007f8b94aec780] [info]    [timestep=470] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:21:53.260339] [0x00007f8b94aec780] [info]    [timestep=480] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:21:54.238771] [0x00007f8b94aec780] [info]    [timestep=490] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:21:55.217116] [0x00007f8b94aec780] [info]    [timestep=500] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:21:56.195483] [0x00007f8b94aec780] [info]    [timestep=510] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:21:57.173984] [0x00007f8b94aec780] [info]    [timestep=520] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:21:58.152306] [0x00007f8b94aec780] [info]    [timestep=530] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:21:59.130717] [0x00007f8b94aec780] [info]    [timestep=540] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:22:00.109074] [0x00007f8b94aec780] [info]    [timestep=550] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:22:01.087467] [0x00007f8b94aec780] [info]    [timestep=560] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:22:02.065927] [0x00007f8b94aec780] [info]    [timestep=570] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:22:03.044315] [0x00007f8b94aec780] [info]    [timestep=580] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:22:04.022789] [0x00007f8b94aec780] [info]    [timestep=590] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:22:05.001255] [0x00007f8b94aec780] [info]    [timestep=600] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:22:05.979672] [0x00007f8b94aec780] [info]    [timestep=610] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:22:06.958041] [0x00007f8b94aec780] [info]    [timestep=620] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:22:07.936464] [0x00007f8b94aec780] [info]    [timestep=630] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:22:08.914834] [0x00007f8b94aec780] [info]    [timestep=640] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:22:09.893276] [0x00007f8b94aec780] [info]    [timestep=650] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:22:10.871749] [0x00007f8b94aec780] [info]    [timestep=660] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:22:11.850084] [0x00007f8b94aec780] [info]    [timestep=670] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:22:12.828509] [0x00007f8b94aec780] [info]    [timestep=680] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:22:13.806918] [0x00007f8b94aec780] [info]    [timestep=690] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:22:14.785279] [0x00007f8b94aec780] [info]    [timestep=700] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:22:15.763811] [0x00007f8b94aec780] [info]    [timestep=710] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:22:16.742152] [0x00007f8b94aec780] [info]    [timestep=720] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:22:17.720657] [0x00007f8b94aec780] [info]    [timestep=730] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:22:18.699061] [0x00007f8b94aec780] [info]    [timestep=740] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:22:19.677497] [0x00007f8b94aec780] [info]    [timestep=750] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:22:20.655955] [0x00007f8b94aec780] [info]    [timestep=760] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:22:21.634281] [0x00007f8b94aec780] [info]    [timestep=770] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:22:22.612827] [0x00007f8b94aec780] [info]    [timestep=780] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:22:23.591232] [0x00007f8b94aec780] [info]    [timestep=790] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:22:24.569680] [0x00007f8b94aec780] [info]    [timestep=800] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:22:25.548089] [0x00007f8b94aec780] [info]    [timestep=810] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:22:26.526513] [0x00007f8b94aec780] [info]    [timestep=820] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:22:27.504863] [0x00007f8b94aec780] [info]    [timestep=830] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:22:28.483234] [0x00007f8b94aec780] [info]    [timestep=840] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:22:29.461591] [0x00007f8b94aec780] [info]    [timestep=850] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:22:30.439979] [0x00007f8b94aec780] [info]    [timestep=860] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:22:31.418312] [0x00007f8b94aec780] [info]    [timestep=870] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:22:32.396691] [0x00007f8b94aec780] [info]    [timestep=880] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:22:33.375225] [0x00007f8b94aec780] [info]    [timestep=890] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:22:34.353656] [0x00007f8b94aec780] [info]    [timestep=900] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:22:35.332068] [0x00007f8b94aec780] [info]    [timestep=910] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:22:36.310375] [0x00007f8b94aec780] [info]    [timestep=920] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:22:37.288802] [0x00007f8b94aec780] [info]    [timestep=930] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:22:38.267338] [0x00007f8b94aec780] [info]    [timestep=940] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:22:39.245696] [0x00007f8b94aec780] [info]    [timestep=950] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:22:40.224087] [0x00007f8b94aec780] [info]    [timestep=960] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:22:41.202480] [0x00007f8b94aec780] [info]    [timestep=970] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:22:42.180893] [0x00007f8b94aec780] [info]    [timestep=980] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:22:43.159239] [0x00007f8b94aec780] [info]    [timestep=990] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:22:44.137612] [0x00007f8b94aec780] [info]    [timestep=1000] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:22:45.115942] [0x00007f8b94aec780] [info]    [timestep=1010] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:22:46.094269] [0x00007f8b94aec780] [info]    [timestep=1020] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:22:47.072733] [0x00007f8b94aec780] [info]    [timestep=1030] planner returns
+number of new free agents: 0 number of new tasks: 0
+[2026-03-21 11:22:47.072972] [0x00007f8b94aec780] [info]    [timestep=1040] Agent 18 finishes task 20
+[2026-03-21 11:22:47.072980] [0x00007f8b94aec780] [info]    Task 30 is revealed
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:22:48.051241] [0x00007f8b94aec780] [info]    [timestep=1040] planner returns
+number of new free agents: 1 number of new tasks: 1
+[DefaultPlanner::plan] timing: time_limit=987ms, pibt_time_hint=1ms, flow_budget=975ms, setup_elapsed=975ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:22:49.030034] [0x00007f8b94aec780] [info]    [timestep=1050] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:22:50.009009] [0x00007f8b94aec780] [info]    [timestep=1060] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:22:50.987479] [0x00007f8b94aec780] [info]    [timestep=1070] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:22:51.965885] [0x00007f8b94aec780] [info]    [timestep=1080] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:22:52.944216] [0x00007f8b94aec780] [info]    [timestep=1090] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:22:53.922644] [0x00007f8b94aec780] [info]    [timestep=1100] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:22:54.901066] [0x00007f8b94aec780] [info]    [timestep=1110] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:22:55.879559] [0x00007f8b94aec780] [info]    [timestep=1120] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:22:56.857977] [0x00007f8b94aec780] [info]    [timestep=1130] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:22:57.836475] [0x00007f8b94aec780] [info]    [timestep=1140] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:22:58.814890] [0x00007f8b94aec780] [info]    [timestep=1150] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:22:59.793287] [0x00007f8b94aec780] [info]    [timestep=1160] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:23:00.771799] [0x00007f8b94aec780] [info]    [timestep=1170] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:23:01.750233] [0x00007f8b94aec780] [info]    [timestep=1180] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:23:02.728559] [0x00007f8b94aec780] [info]    [timestep=1190] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:23:03.707050] [0x00007f8b94aec780] [info]    [timestep=1200] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:23:04.685485] [0x00007f8b94aec780] [info]    [timestep=1210] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:23:05.663915] [0x00007f8b94aec780] [info]    [timestep=1220] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:23:06.642391] [0x00007f8b94aec780] [info]    [timestep=1230] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:23:07.620890] [0x00007f8b94aec780] [info]    [timestep=1240] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:23:08.599323] [0x00007f8b94aec780] [info]    [timestep=1250] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:23:09.577681] [0x00007f8b94aec780] [info]    [timestep=1260] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:23:10.556083] [0x00007f8b94aec780] [info]    [timestep=1270] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:23:11.534486] [0x00007f8b94aec780] [info]    [timestep=1280] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:23:12.512873] [0x00007f8b94aec780] [info]    [timestep=1290] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:23:13.491220] [0x00007f8b94aec780] [info]    [timestep=1300] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:23:14.469556] [0x00007f8b94aec780] [info]    [timestep=1310] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:23:15.448000] [0x00007f8b94aec780] [info]    [timestep=1320] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:23:16.426359] [0x00007f8b94aec780] [info]    [timestep=1330] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:23:17.404897] [0x00007f8b94aec780] [info]    [timestep=1340] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:23:18.383327] [0x00007f8b94aec780] [info]    [timestep=1350] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:23:19.361740] [0x00007f8b94aec780] [info]    [timestep=1360] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:23:20.340153] [0x00007f8b94aec780] [info]    [timestep=1370] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:23:21.318500] [0x00007f8b94aec780] [info]    [timestep=1380] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:23:22.296811] [0x00007f8b94aec780] [info]    [timestep=1390] planner returns
+number of new free agents: 0 number of new tasks: 0
+[2026-03-21 11:23:22.297019] [0x00007f8b94aec780] [info]    [timestep=1395] Agent 19 finishes task 24
+[2026-03-21 11:23:22.297037] [0x00007f8b94aec780] [info]    Task 31 is revealed
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:23:23.275251] [0x00007f8b94aec780] [info]    [timestep=1400] planner returns
+number of new free agents: 1 number of new tasks: 1
+[DefaultPlanner::plan] timing: time_limit=989ms, pibt_time_hint=1ms, flow_budget=977ms, setup_elapsed=977ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:23:24.253816] [0x00007f8b94aec780] [info]    [timestep=1410] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:23:25.232169] [0x00007f8b94aec780] [info]    [timestep=1420] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:23:26.210523] [0x00007f8b94aec780] [info]    [timestep=1430] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:23:27.188892] [0x00007f8b94aec780] [info]    [timestep=1440] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:23:28.167219] [0x00007f8b94aec780] [info]    [timestep=1450] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:23:29.145636] [0x00007f8b94aec780] [info]    [timestep=1460] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:23:30.124035] [0x00007f8b94aec780] [info]    [timestep=1470] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:23:31.102431] [0x00007f8b94aec780] [info]    [timestep=1480] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:23:32.080840] [0x00007f8b94aec780] [info]    [timestep=1490] planner returns
+number of new free agents: 0 number of new tasks: 0
+[2026-03-21 11:23:32.081044] [0x00007f8b94aec780] [info]    [timestep=1496] Agent 15 finishes task 21
+[2026-03-21 11:23:32.081051] [0x00007f8b94aec780] [info]    Task 32 is revealed
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:23:33.059275] [0x00007f8b94aec780] [info]    [timestep=1500] planner returns
+number of new free agents: 1 number of new tasks: 1
+[DefaultPlanner::plan] timing: time_limit=988ms, pibt_time_hint=1ms, flow_budget=976ms, setup_elapsed=976ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:23:34.037995] [0x00007f8b94aec780] [info]    [timestep=1510] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:23:35.016458] [0x00007f8b94aec780] [info]    [timestep=1520] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:23:35.994904] [0x00007f8b94aec780] [info]    [timestep=1530] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:23:36.973277] [0x00007f8b94aec780] [info]    [timestep=1540] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:23:37.951584] [0x00007f8b94aec780] [info]    [timestep=1550] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:23:38.929916] [0x00007f8b94aec780] [info]    [timestep=1560] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:23:39.908314] [0x00007f8b94aec780] [info]    [timestep=1570] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:23:40.886743] [0x00007f8b94aec780] [info]    [timestep=1580] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:23:41.865357] [0x00007f8b94aec780] [info]    [timestep=1590] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:23:42.843798] [0x00007f8b94aec780] [info]    [timestep=1600] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:23:43.822268] [0x00007f8b94aec780] [info]    [timestep=1610] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:23:44.800680] [0x00007f8b94aec780] [info]    [timestep=1620] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:23:45.779088] [0x00007f8b94aec780] [info]    [timestep=1630] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:23:46.757591] [0x00007f8b94aec780] [info]    [timestep=1640] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:23:47.736004] [0x00007f8b94aec780] [info]    [timestep=1650] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:23:48.714428] [0x00007f8b94aec780] [info]    [timestep=1660] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:23:49.692793] [0x00007f8b94aec780] [info]    [timestep=1670] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:23:50.671122] [0x00007f8b94aec780] [info]    [timestep=1680] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:23:51.649492] [0x00007f8b94aec780] [info]    [timestep=1690] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:23:52.627985] [0x00007f8b94aec780] [info]    [timestep=1700] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:23:53.606325] [0x00007f8b94aec780] [info]    [timestep=1710] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:23:54.584694] [0x00007f8b94aec780] [info]    [timestep=1720] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:23:55.563151] [0x00007f8b94aec780] [info]    [timestep=1730] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:23:56.541488] [0x00007f8b94aec780] [info]    [timestep=1740] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:23:57.519858] [0x00007f8b94aec780] [info]    [timestep=1750] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:23:58.498278] [0x00007f8b94aec780] [info]    [timestep=1760] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:23:59.476621] [0x00007f8b94aec780] [info]    [timestep=1770] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:24:00.454996] [0x00007f8b94aec780] [info]    [timestep=1780] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:24:01.433362] [0x00007f8b94aec780] [info]    [timestep=1790] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:24:02.411924] [0x00007f8b94aec780] [info]    [timestep=1800] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:24:03.390229] [0x00007f8b94aec780] [info]    [timestep=1810] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:24:04.368549] [0x00007f8b94aec780] [info]    [timestep=1820] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:24:05.346992] [0x00007f8b94aec780] [info]    [timestep=1830] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:24:06.325404] [0x00007f8b94aec780] [info]    [timestep=1840] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:24:07.303850] [0x00007f8b94aec780] [info]    [timestep=1850] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:24:08.282227] [0x00007f8b94aec780] [info]    [timestep=1860] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:24:09.260541] [0x00007f8b94aec780] [info]    [timestep=1870] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:24:10.238964] [0x00007f8b94aec780] [info]    [timestep=1880] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:24:11.217334] [0x00007f8b94aec780] [info]    [timestep=1890] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:24:12.195731] [0x00007f8b94aec780] [info]    [timestep=1900] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:24:13.174041] [0x00007f8b94aec780] [info]    [timestep=1910] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:24:14.152423] [0x00007f8b94aec780] [info]    [timestep=1920] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:24:15.130800] [0x00007f8b94aec780] [info]    [timestep=1930] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:24:16.109107] [0x00007f8b94aec780] [info]    [timestep=1940] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:24:17.087521] [0x00007f8b94aec780] [info]    [timestep=1950] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:24:18.065854] [0x00007f8b94aec780] [info]    [timestep=1960] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:24:19.044237] [0x00007f8b94aec780] [info]    [timestep=1970] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:24:20.022663] [0x00007f8b94aec780] [info]    [timestep=1980] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:24:21.000926] [0x00007f8b94aec780] [info]    [timestep=1990] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:24:21.979327] [0x00007f8b94aec780] [info]    [timestep=2000] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:24:22.957741] [0x00007f8b94aec780] [info]    [timestep=2010] planner returns
+number of new free agents: 0 number of new tasks: 0
+[2026-03-21 11:24:22.958011] [0x00007f8b94aec780] [info]    [timestep=2020] Agent 0 finishes task 7
+[2026-03-21 11:24:22.958036] [0x00007f8b94aec780] [info]    Task 33 is revealed
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:24:23.936037] [0x00007f8b94aec780] [info]    [timestep=2020] planner returns
+number of new free agents: 1 number of new tasks: 1
+[DefaultPlanner::plan] timing: time_limit=988ms, pibt_time_hint=1ms, flow_budget=976ms, setup_elapsed=976ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:24:24.915226] [0x00007f8b94aec780] [info]    [timestep=2030] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:24:25.893603] [0x00007f8b94aec780] [info]    [timestep=2040] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:24:26.871973] [0x00007f8b94aec780] [info]    [timestep=2050] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:24:27.850412] [0x00007f8b94aec780] [info]    [timestep=2060] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:24:28.828724] [0x00007f8b94aec780] [info]    [timestep=2070] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:24:29.807100] [0x00007f8b94aec780] [info]    [timestep=2080] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:24:30.785375] [0x00007f8b94aec780] [info]    [timestep=2090] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:24:31.763777] [0x00007f8b94aec780] [info]    [timestep=2100] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:24:32.742109] [0x00007f8b94aec780] [info]    [timestep=2110] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:24:33.720470] [0x00007f8b94aec780] [info]    [timestep=2120] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:24:34.698962] [0x00007f8b94aec780] [info]    [timestep=2130] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:24:35.677259] [0x00007f8b94aec780] [info]    [timestep=2140] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:24:36.655575] [0x00007f8b94aec780] [info]    [timestep=2150] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:24:37.633955] [0x00007f8b94aec780] [info]    [timestep=2160] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:24:38.612292] [0x00007f8b94aec780] [info]    [timestep=2170] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:24:39.590643] [0x00007f8b94aec780] [info]    [timestep=2180] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:24:40.568947] [0x00007f8b94aec780] [info]    [timestep=2190] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:24:41.547222] [0x00007f8b94aec780] [info]    [timestep=2200] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:24:42.525614] [0x00007f8b94aec780] [info]    [timestep=2210] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:24:43.503969] [0x00007f8b94aec780] [info]    [timestep=2220] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:24:44.482311] [0x00007f8b94aec780] [info]    [timestep=2230] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:24:45.460790] [0x00007f8b94aec780] [info]    [timestep=2240] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:24:46.439154] [0x00007f8b94aec780] [info]    [timestep=2250] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:24:47.417453] [0x00007f8b94aec780] [info]    [timestep=2260] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:24:48.395804] [0x00007f8b94aec780] [info]    [timestep=2270] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:24:49.374052] [0x00007f8b94aec780] [info]    [timestep=2280] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:24:50.352510] [0x00007f8b94aec780] [info]    [timestep=2290] planner returns
+number of new free agents: 0 number of new tasks: 0
+[2026-03-21 11:24:50.352715] [0x00007f8b94aec780] [info]    [timestep=2293] Agent 17 finishes task 0
+[2026-03-21 11:24:50.352722] [0x00007f8b94aec780] [info]    Task 34 is revealed
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:24:51.330846] [0x00007f8b94aec780] [info]    [timestep=2300] planner returns
+number of new free agents: 1 number of new tasks: 1
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:24:52.310030] [0x00007f8b94aec780] [info]    [timestep=2310] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:24:53.288440] [0x00007f8b94aec780] [info]    [timestep=2320] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:24:54.266906] [0x00007f8b94aec780] [info]    [timestep=2330] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:24:55.245209] [0x00007f8b94aec780] [info]    [timestep=2340] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:24:56.223526] [0x00007f8b94aec780] [info]    [timestep=2350] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:24:57.201858] [0x00007f8b94aec780] [info]    [timestep=2360] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:24:58.180235] [0x00007f8b94aec780] [info]    [timestep=2370] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:24:59.158578] [0x00007f8b94aec780] [info]    [timestep=2380] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:25:00.137064] [0x00007f8b94aec780] [info]    [timestep=2390] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:25:01.115562] [0x00007f8b94aec780] [info]    [timestep=2400] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:25:02.093917] [0x00007f8b94aec780] [info]    [timestep=2410] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:25:03.072204] [0x00007f8b94aec780] [info]    [timestep=2420] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:25:04.050531] [0x00007f8b94aec780] [info]    [timestep=2430] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:25:05.028922] [0x00007f8b94aec780] [info]    [timestep=2440] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:25:06.007251] [0x00007f8b94aec780] [info]    [timestep=2450] planner returns
+[2026-03-21 11:25:06.007359] [0x00007f8b94aec780] [info]    [timestep=2451] Agent 16 finishes task 5
+[2026-03-21 11:25:06.007385] [0x00007f8b94aec780] [info]    Task 35 is revealed
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:25:06.985624] [0x00007f8b94aec780] [info]    [timestep=2460] planner returns
+number of new free agents: 1 number of new tasks: 1
+[DefaultPlanner::plan] timing: time_limit=988ms, pibt_time_hint=1ms, flow_budget=976ms, setup_elapsed=976ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:25:07.964362] [0x00007f8b94aec780] [info]    [timestep=2470] planner returns
+number of new free agents: 0 number of new tasks: 0
+[2026-03-21 11:25:07.964590] [0x00007f8b94aec780] [info]    [timestep=2479] Agent 13 finishes task 25
+[2026-03-21 11:25:07.964598] [0x00007f8b94aec780] [info]    Task 36 is revealed
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:25:08.942749] [0x00007f8b94aec780] [info]    [timestep=2480] planner returns
+number of new free agents: 1 number of new tasks: 1
+[DefaultPlanner::plan] timing: time_limit=989ms, pibt_time_hint=1ms, flow_budget=977ms, setup_elapsed=977ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:25:09.921611] [0x00007f8b94aec780] [info]    [timestep=2490] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:25:10.899953] [0x00007f8b94aec780] [info]    [timestep=2500] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:25:11.878365] [0x00007f8b94aec780] [info]    [timestep=2510] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:25:12.856776] [0x00007f8b94aec780] [info]    [timestep=2520] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:25:13.835118] [0x00007f8b94aec780] [info]    [timestep=2530] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:25:14.813411] [0x00007f8b94aec780] [info]    [timestep=2540] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:25:15.791793] [0x00007f8b94aec780] [info]    [timestep=2550] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:25:16.770179] [0x00007f8b94aec780] [info]    [timestep=2560] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:25:17.748531] [0x00007f8b94aec780] [info]    [timestep=2570] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:25:18.726822] [0x00007f8b94aec780] [info]    [timestep=2580] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:25:19.705143] [0x00007f8b94aec780] [info]    [timestep=2590] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:25:20.683414] [0x00007f8b94aec780] [info]    [timestep=2600] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:25:21.661807] [0x00007f8b94aec780] [info]    [timestep=2610] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:25:22.640134] [0x00007f8b94aec780] [info]    [timestep=2620] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:25:23.618589] [0x00007f8b94aec780] [info]    [timestep=2630] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:25:24.596890] [0x00007f8b94aec780] [info]    [timestep=2640] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:25:25.575203] [0x00007f8b94aec780] [info]    [timestep=2650] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:25:26.553490] [0x00007f8b94aec780] [info]    [timestep=2660] planner returns
+[2026-03-21 11:25:26.553620] [0x00007f8b94aec780] [info]    [timestep=2662] Agent 6 finishes task 23
+[2026-03-21 11:25:26.553627] [0x00007f8b94aec780] [info]    Task 37 is revealed
+number of new free agents: 0 number of new tasks: 0
+[2026-03-21 11:25:26.553711] [0x00007f8b94aec780] [info]    [timestep=2669] Agent 2 finishes task 3
+[2026-03-21 11:25:26.553720] [0x00007f8b94aec780] [info]    Task 38 is revealed
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:25:27.531864] [0x00007f8b94aec780] [info]    [timestep=2670] planner returns
+number of new free agents: 2 number of new tasks: 2
+[DefaultPlanner::plan] timing: time_limit=987ms, pibt_time_hint=1ms, flow_budget=975ms, setup_elapsed=975ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:25:28.510277] [0x00007f8b94aec780] [info]    [timestep=2680] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:25:29.488588] [0x00007f8b94aec780] [info]    [timestep=2690] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:25:30.466865] [0x00007f8b94aec780] [info]    [timestep=2700] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:25:31.445162] [0x00007f8b94aec780] [info]    [timestep=2710] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:25:32.423509] [0x00007f8b94aec780] [info]    [timestep=2720] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:25:33.401910] [0x00007f8b94aec780] [info]    [timestep=2730] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:25:34.380219] [0x00007f8b94aec780] [info]    [timestep=2740] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:25:35.358644] [0x00007f8b94aec780] [info]    [timestep=2750] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:25:36.337015] [0x00007f8b94aec780] [info]    [timestep=2760] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:25:37.315400] [0x00007f8b94aec780] [info]    [timestep=2770] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:25:38.293762] [0x00007f8b94aec780] [info]    [timestep=2780] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:25:39.272146] [0x00007f8b94aec780] [info]    [timestep=2790] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:25:40.250524] [0x00007f8b94aec780] [info]    [timestep=2800] planner returns
+number of new free agents: 0 number of new tasks: 0
+[2026-03-21 11:25:40.250758] [0x00007f8b94aec780] [info]    [timestep=2810] Agent 14 finishes task 18
+[2026-03-21 11:25:40.250766] [0x00007f8b94aec780] [info]    Task 39 is revealed
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:25:41.228842] [0x00007f8b94aec780] [info]    [timestep=2810] planner returns
+number of new free agents: 1 number of new tasks: 1
+[DefaultPlanner::plan] timing: time_limit=988ms, pibt_time_hint=1ms, flow_budget=976ms, setup_elapsed=976ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:25:42.207369] [0x00007f8b94aec780] [info]    [timestep=2820] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:25:43.185715] [0x00007f8b94aec780] [info]    [timestep=2830] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:25:44.164171] [0x00007f8b94aec780] [info]    [timestep=2840] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:25:45.142517] [0x00007f8b94aec780] [info]    [timestep=2850] planner returns
+number of new free agents: 0 number of new tasks: 0
+[2026-03-21 11:25:45.142726] [0x00007f8b94aec780] [info]    [timestep=2853] Agent 8 finishes task 10
+[2026-03-21 11:25:45.142739] [0x00007f8b94aec780] [info]    Task 40 is revealed
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:25:46.120962] [0x00007f8b94aec780] [info]    [timestep=2860] planner returns
+number of new free agents: 1 number of new tasks: 1
+[DefaultPlanner::plan] timing: time_limit=989ms, pibt_time_hint=1ms, flow_budget=977ms, setup_elapsed=977ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:25:47.100182] [0x00007f8b94aec780] [info]    [timestep=2870] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:25:48.078645] [0x00007f8b94aec780] [info]    [timestep=2880] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:25:49.057062] [0x00007f8b94aec780] [info]    [timestep=2890] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:25:50.035463] [0x00007f8b94aec780] [info]    [timestep=2900] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:25:51.013787] [0x00007f8b94aec780] [info]    [timestep=2910] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:25:51.992241] [0x00007f8b94aec780] [info]    [timestep=2920] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:25:52.970782] [0x00007f8b94aec780] [info]    [timestep=2930] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:25:53.949112] [0x00007f8b94aec780] [info]    [timestep=2940] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:25:54.927680] [0x00007f8b94aec780] [info]    [timestep=2950] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:25:55.906134] [0x00007f8b94aec780] [info]    [timestep=2960] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:25:56.884550] [0x00007f8b94aec780] [info]    [timestep=2970] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:25:57.863034] [0x00007f8b94aec780] [info]    [timestep=2980] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:25:58.841404] [0x00007f8b94aec780] [info]    [timestep=2990] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:25:59.819800] [0x00007f8b94aec780] [info]    [timestep=3000] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:26:00.798215] [0x00007f8b94aec780] [info]    [timestep=3010] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:26:01.776714] [0x00007f8b94aec780] [info]    [timestep=3020] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:26:02.755044] [0x00007f8b94aec780] [info]    [timestep=3030] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:26:03.733424] [0x00007f8b94aec780] [info]    [timestep=3040] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:26:04.711736] [0x00007f8b94aec780] [info]    [timestep=3050] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:26:05.690183] [0x00007f8b94aec780] [info]    [timestep=3060] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:26:06.668492] [0x00007f8b94aec780] [info]    [timestep=3070] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:26:07.646815] [0x00007f8b94aec780] [info]    [timestep=3080] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:26:08.625140] [0x00007f8b94aec780] [info]    [timestep=3090] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:26:09.603505] [0x00007f8b94aec780] [info]    [timestep=3100] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:26:10.582143] [0x00007f8b94aec780] [info]    [timestep=3110] planner returns
+number of new free agents: 0 number of new tasks: 0
+[2026-03-21 11:26:10.582299] [0x00007f8b94aec780] [info]    [timestep=3112] Agent 3 finishes task 8
+[2026-03-21 11:26:10.582307] [0x00007f8b94aec780] [info]    Task 41 is revealed
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:26:11.560503] [0x00007f8b94aec780] [info]    [timestep=3120] planner returns
+number of new free agents: 1 number of new tasks: 1
+[DefaultPlanner::plan] timing: time_limit=987ms, pibt_time_hint=1ms, flow_budget=975ms, setup_elapsed=975ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:26:12.539312] [0x00007f8b94aec780] [info]    [timestep=3130] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:26:13.517809] [0x00007f8b94aec780] [info]    [timestep=3140] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:26:14.496182] [0x00007f8b94aec780] [info]    [timestep=3150] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:26:15.474475] [0x00007f8b94aec780] [info]    [timestep=3160] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:26:16.452884] [0x00007f8b94aec780] [info]    [timestep=3170] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:26:17.431216] [0x00007f8b94aec780] [info]    [timestep=3180] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:26:18.409527] [0x00007f8b94aec780] [info]    [timestep=3190] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:26:19.387917] [0x00007f8b94aec780] [info]    [timestep=3200] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:26:20.366321] [0x00007f8b94aec780] [info]    [timestep=3210] planner returns
+number of new free agents: 0 number of new tasks: 0
+[2026-03-21 11:26:20.366516] [0x00007f8b94aec780] [info]    [timestep=3218] Agent 7 finishes task 29
+[2026-03-21 11:26:20.366524] [0x00007f8b94aec780] [info]    Task 42 is revealed
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:26:21.344722] [0x00007f8b94aec780] [info]    [timestep=3220] planner returns
+number of new free agents: 1 number of new tasks: 1
+[DefaultPlanner::plan] timing: time_limit=989ms, pibt_time_hint=1ms, flow_budget=977ms, setup_elapsed=977ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:26:22.323171] [0x00007f8b94aec780] [info]    [timestep=3230] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:26:23.301531] [0x00007f8b94aec780] [info]    [timestep=3240] planner returns
+number of new free agents: 0 number of new tasks: 0
+[2026-03-21 11:26:23.301736] [0x00007f8b94aec780] [info]    [timestep=3249] Agent 9 finishes task 22
+[2026-03-21 11:26:23.301745] [0x00007f8b94aec780] [info]    Task 43 is revealed
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:26:24.279869] [0x00007f8b94aec780] [info]    [timestep=3250] planner returns
+number of new free agents: 1 number of new tasks: 1
+[2026-03-21 11:26:24.280080] [0x00007f8b94aec780] [info]    [timestep=3253] Agent 5 finishes task 19
+[2026-03-21 11:26:24.280092] [0x00007f8b94aec780] [info]    Task 44 is revealed
+[DefaultPlanner::plan] timing: time_limit=989ms, pibt_time_hint=1ms, flow_budget=977ms, setup_elapsed=977ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:26:25.258429] [0x00007f8b94aec780] [info]    [timestep=3260] planner returns
+number of new free agents: 1 number of new tasks: 1
+[DefaultPlanner::plan] timing: time_limit=988ms, pibt_time_hint=1ms, flow_budget=976ms, setup_elapsed=976ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:26:26.237061] [0x00007f8b94aec780] [info]    [timestep=3270] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:26:27.215394] [0x00007f8b94aec780] [info]    [timestep=3280] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:26:28.193882] [0x00007f8b94aec780] [info]    [timestep=3290] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:26:29.172221] [0x00007f8b94aec780] [info]    [timestep=3300] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:26:30.150666] [0x00007f8b94aec780] [info]    [timestep=3310] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:26:31.129157] [0x00007f8b94aec780] [info]    [timestep=3320] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:26:32.107508] [0x00007f8b94aec780] [info]    [timestep=3330] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:26:33.085904] [0x00007f8b94aec780] [info]    [timestep=3340] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:26:34.064329] [0x00007f8b94aec780] [info]    [timestep=3350] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:26:35.042693] [0x00007f8b94aec780] [info]    [timestep=3360] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:26:36.021096] [0x00007f8b94aec780] [info]    [timestep=3370] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:26:36.999528] [0x00007f8b94aec780] [info]    [timestep=3380] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:26:37.977868] [0x00007f8b94aec780] [info]    [timestep=3390] planner returns
+number of new free agents: 0 number of new tasks: 0
+[2026-03-21 11:26:37.978170] [0x00007f8b94aec780] [info]    [timestep=3400] Agent 4 finishes task 15
+[2026-03-21 11:26:37.978183] [0x00007f8b94aec780] [info]    Task 45 is revealed
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:26:38.956186] [0x00007f8b94aec780] [info]    [timestep=3400] planner returns
+number of new free agents: 1 number of new tasks: 1
+[DefaultPlanner::plan] timing: time_limit=988ms, pibt_time_hint=1ms, flow_budget=976ms, setup_elapsed=976ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:26:39.934688] [0x00007f8b94aec780] [info]    [timestep=3410] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:26:40.913023] [0x00007f8b94aec780] [info]    [timestep=3420] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:26:41.891392] [0x00007f8b94aec780] [info]    [timestep=3430] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:26:42.869797] [0x00007f8b94aec780] [info]    [timestep=3440] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:26:43.848201] [0x00007f8b94aec780] [info]    [timestep=3450] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:26:44.826546] [0x00007f8b94aec780] [info]    [timestep=3460] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:26:45.804968] [0x00007f8b94aec780] [info]    [timestep=3470] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:26:46.783329] [0x00007f8b94aec780] [info]    [timestep=3480] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:26:47.761713] [0x00007f8b94aec780] [info]    [timestep=3490] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:26:48.740109] [0x00007f8b94aec780] [info]    [timestep=3500] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:26:49.718508] [0x00007f8b94aec780] [info]    [timestep=3510] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:26:50.696905] [0x00007f8b94aec780] [info]    [timestep=3520] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:26:51.675321] [0x00007f8b94aec780] [info]    [timestep=3530] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:26:52.653792] [0x00007f8b94aec780] [info]    [timestep=3540] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:26:53.632109] [0x00007f8b94aec780] [info]    [timestep=3550] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:26:54.610501] [0x00007f8b94aec780] [info]    [timestep=3560] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:26:55.589022] [0x00007f8b94aec780] [info]    [timestep=3570] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:26:56.567427] [0x00007f8b94aec780] [info]    [timestep=3580] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:26:57.545852] [0x00007f8b94aec780] [info]    [timestep=3590] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:26:58.524247] [0x00007f8b94aec780] [info]    [timestep=3600] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:26:59.502587] [0x00007f8b94aec780] [info]    [timestep=3610] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:27:00.480985] [0x00007f8b94aec780] [info]    [timestep=3620] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:27:01.459635] [0x00007f8b94aec780] [info]    [timestep=3630] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:27:02.438007] [0x00007f8b94aec780] [info]    [timestep=3640] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:27:03.416469] [0x00007f8b94aec780] [info]    [timestep=3650] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:27:04.394800] [0x00007f8b94aec780] [info]    [timestep=3660] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:27:05.373283] [0x00007f8b94aec780] [info]    [timestep=3670] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:27:06.351674] [0x00007f8b94aec780] [info]    [timestep=3680] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:27:07.330075] [0x00007f8b94aec780] [info]    [timestep=3690] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:27:08.308395] [0x00007f8b94aec780] [info]    [timestep=3700] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:27:09.286832] [0x00007f8b94aec780] [info]    [timestep=3710] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:27:10.265177] [0x00007f8b94aec780] [info]    [timestep=3720] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:27:11.243500] [0x00007f8b94aec780] [info]    [timestep=3730] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:27:12.221937] [0x00007f8b94aec780] [info]    [timestep=3740] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:27:13.200391] [0x00007f8b94aec780] [info]    [timestep=3750] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:27:14.178775] [0x00007f8b94aec780] [info]    [timestep=3760] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:27:15.157081] [0x00007f8b94aec780] [info]    [timestep=3770] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:27:16.135426] [0x00007f8b94aec780] [info]    [timestep=3780] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:27:17.113804] [0x00007f8b94aec780] [info]    [timestep=3790] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:27:18.092194] [0x00007f8b94aec780] [info]    [timestep=3800] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:27:19.070609] [0x00007f8b94aec780] [info]    [timestep=3810] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:27:20.048985] [0x00007f8b94aec780] [info]    [timestep=3820] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:27:21.027324] [0x00007f8b94aec780] [info]    [timestep=3830] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:27:22.005765] [0x00007f8b94aec780] [info]    [timestep=3840] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:27:22.984111] [0x00007f8b94aec780] [info]    [timestep=3850] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:27:23.962519] [0x00007f8b94aec780] [info]    [timestep=3860] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:27:24.940885] [0x00007f8b94aec780] [info]    [timestep=3870] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:27:25.919305] [0x00007f8b94aec780] [info]    [timestep=3880] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:27:26.897677] [0x00007f8b94aec780] [info]    [timestep=3890] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:27:27.876054] [0x00007f8b94aec780] [info]    [timestep=3900] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:27:28.854531] [0x00007f8b94aec780] [info]    [timestep=3910] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:27:29.833026] [0x00007f8b94aec780] [info]    [timestep=3920] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:27:30.811376] [0x00007f8b94aec780] [info]    [timestep=3930] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:27:31.789695] [0x00007f8b94aec780] [info]    [timestep=3940] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:27:32.768116] [0x00007f8b94aec780] [info]    [timestep=3950] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:27:33.746522] [0x00007f8b94aec780] [info]    [timestep=3960] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:27:34.724884] [0x00007f8b94aec780] [info]    [timestep=3970] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:27:35.703276] [0x00007f8b94aec780] [info]    [timestep=3980] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:27:36.681677] [0x00007f8b94aec780] [info]    [timestep=3990] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:27:37.660048] [0x00007f8b94aec780] [info]    [timestep=4000] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:27:38.638398] [0x00007f8b94aec780] [info]    [timestep=4010] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:27:39.616822] [0x00007f8b94aec780] [info]    [timestep=4020] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:27:40.595253] [0x00007f8b94aec780] [info]    [timestep=4030] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:27:41.573605] [0x00007f8b94aec780] [info]    [timestep=4040] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:27:42.552019] [0x00007f8b94aec780] [info]    [timestep=4050] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:27:43.530422] [0x00007f8b94aec780] [info]    [timestep=4060] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:27:44.508831] [0x00007f8b94aec780] [info]    [timestep=4070] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:27:45.487217] [0x00007f8b94aec780] [info]    [timestep=4080] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:27:46.465572] [0x00007f8b94aec780] [info]    [timestep=4090] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:27:47.443851] [0x00007f8b94aec780] [info]    [timestep=4100] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:27:48.422181] [0x00007f8b94aec780] [info]    [timestep=4110] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:27:49.400535] [0x00007f8b94aec780] [info]    [timestep=4120] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:27:50.378940] [0x00007f8b94aec780] [info]    [timestep=4130] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:27:51.357246] [0x00007f8b94aec780] [info]    [timestep=4140] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:27:52.335516] [0x00007f8b94aec780] [info]    [timestep=4150] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:27:53.313829] [0x00007f8b94aec780] [info]    [timestep=4160] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:27:54.292297] [0x00007f8b94aec780] [info]    [timestep=4170] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:27:55.270562] [0x00007f8b94aec780] [info]    [timestep=4180] planner returns
+number of new free agents: 0 number of new tasks: 0
+[2026-03-21 11:27:55.270773] [0x00007f8b94aec780] [info]    [timestep=4189] Agent 1 finishes task 11
+[2026-03-21 11:27:55.270780] [0x00007f8b94aec780] [info]    Task 46 is revealed
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:27:56.248921] [0x00007f8b94aec780] [info]    [timestep=4190] planner returns
+number of new free agents: 1 number of new tasks: 1
+[2026-03-21 11:27:56.249120] [0x00007f8b94aec780] [info]    [timestep=4198] Agent 10 finishes task 6
+[2026-03-21 11:27:56.249146] [0x00007f8b94aec780] [info]    Task 47 is revealed
+[DefaultPlanner::plan] timing: time_limit=986ms, pibt_time_hint=1ms, flow_budget=974ms, setup_elapsed=974ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:27:57.227187] [0x00007f8b94aec780] [info]    [timestep=4200] planner returns
+number of new free agents: 1 number of new tasks: 1
+[DefaultPlanner::plan] timing: time_limit=988ms, pibt_time_hint=1ms, flow_budget=976ms, setup_elapsed=976ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:27:58.205938] [0x00007f8b94aec780] [info]    [timestep=4210] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:27:59.184211] [0x00007f8b94aec780] [info]    [timestep=4220] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:28:00.162509] [0x00007f8b94aec780] [info]    [timestep=4230] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:28:01.140851] [0x00007f8b94aec780] [info]    [timestep=4240] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:28:02.119243] [0x00007f8b94aec780] [info]    [timestep=4250] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:28:03.097609] [0x00007f8b94aec780] [info]    [timestep=4260] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:28:04.075908] [0x00007f8b94aec780] [info]    [timestep=4270] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:28:05.054330] [0x00007f8b94aec780] [info]    [timestep=4280] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:28:06.032626] [0x00007f8b94aec780] [info]    [timestep=4290] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:28:07.010928] [0x00007f8b94aec780] [info]    [timestep=4300] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:28:07.989201] [0x00007f8b94aec780] [info]    [timestep=4310] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:28:08.967512] [0x00007f8b94aec780] [info]    [timestep=4320] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:28:09.945902] [0x00007f8b94aec780] [info]    [timestep=4330] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:28:10.924174] [0x00007f8b94aec780] [info]    [timestep=4340] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:28:11.902503] [0x00007f8b94aec780] [info]    [timestep=4350] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:28:12.880797] [0x00007f8b94aec780] [info]    [timestep=4360] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:28:13.859143] [0x00007f8b94aec780] [info]    [timestep=4370] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:28:14.837544] [0x00007f8b94aec780] [info]    [timestep=4380] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:28:15.815830] [0x00007f8b94aec780] [info]    [timestep=4390] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:28:16.794133] [0x00007f8b94aec780] [info]    [timestep=4400] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:28:17.772445] [0x00007f8b94aec780] [info]    [timestep=4410] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:28:18.750725] [0x00007f8b94aec780] [info]    [timestep=4420] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:28:19.729074] [0x00007f8b94aec780] [info]    [timestep=4430] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:28:20.707519] [0x00007f8b94aec780] [info]    [timestep=4440] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:28:21.685953] [0x00007f8b94aec780] [info]    [timestep=4450] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:28:22.664442] [0x00007f8b94aec780] [info]    [timestep=4460] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:28:23.642827] [0x00007f8b94aec780] [info]    [timestep=4470] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:28:24.621232] [0x00007f8b94aec780] [info]    [timestep=4480] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:28:25.599602] [0x00007f8b94aec780] [info]    [timestep=4490] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:28:26.577997] [0x00007f8b94aec780] [info]    [timestep=4500] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:28:27.556277] [0x00007f8b94aec780] [info]    [timestep=4510] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:28:28.534638] [0x00007f8b94aec780] [info]    [timestep=4520] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:28:29.512955] [0x00007f8b94aec780] [info]    [timestep=4530] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:28:30.491240] [0x00007f8b94aec780] [info]    [timestep=4540] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:28:31.469614] [0x00007f8b94aec780] [info]    [timestep=4550] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:28:32.447984] [0x00007f8b94aec780] [info]    [timestep=4560] planner returns
+number of new free agents: 0 number of new tasks: 0
+[2026-03-21 11:28:32.448187] [0x00007f8b94aec780] [info]    [timestep=4570] Agent 19 finishes task 31
+[2026-03-21 11:28:32.448196] [0x00007f8b94aec780] [info]    Task 48 is revealed
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:28:33.426273] [0x00007f8b94aec780] [info]    [timestep=4570] planner returns
+number of new free agents: 1 number of new tasks: 1
+[DefaultPlanner::plan] timing: time_limit=987ms, pibt_time_hint=1ms, flow_budget=975ms, setup_elapsed=975ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:28:34.404750] [0x00007f8b94aec780] [info]    [timestep=4580] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:28:35.383147] [0x00007f8b94aec780] [info]    [timestep=4590] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:28:36.361528] [0x00007f8b94aec780] [info]    [timestep=4600] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:28:37.339911] [0x00007f8b94aec780] [info]    [timestep=4610] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:28:38.318324] [0x00007f8b94aec780] [info]    [timestep=4620] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:28:39.296775] [0x00007f8b94aec780] [info]    [timestep=4630] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:28:40.275141] [0x00007f8b94aec780] [info]    [timestep=4640] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:28:41.253548] [0x00007f8b94aec780] [info]    [timestep=4650] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:28:42.231974] [0x00007f8b94aec780] [info]    [timestep=4660] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:28:43.210422] [0x00007f8b94aec780] [info]    [timestep=4670] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:28:44.188832] [0x00007f8b94aec780] [info]    [timestep=4680] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:28:45.167196] [0x00007f8b94aec780] [info]    [timestep=4690] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:28:46.145660] [0x00007f8b94aec780] [info]    [timestep=4700] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:28:47.124081] [0x00007f8b94aec780] [info]    [timestep=4710] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:28:48.102415] [0x00007f8b94aec780] [info]    [timestep=4720] planner returns
+number of new free agents: 0 number of new tasks: 0
+[2026-03-21 11:28:48.102599] [0x00007f8b94aec780] [info]    [timestep=4728] Agent 11 finishes task 27
+[2026-03-21 11:28:48.102606] [0x00007f8b94aec780] [info]    Task 49 is revealed
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:28:49.080725] [0x00007f8b94aec780] [info]    [timestep=4730] planner returns
+number of new free agents: 1 number of new tasks: 1
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:28:50.059740] [0x00007f8b94aec780] [info]    [timestep=4740] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:28:51.038186] [0x00007f8b94aec780] [info]    [timestep=4750] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:28:52.016660] [0x00007f8b94aec780] [info]    [timestep=4760] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:28:52.995021] [0x00007f8b94aec780] [info]    [timestep=4770] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:28:53.973496] [0x00007f8b94aec780] [info]    [timestep=4780] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:28:54.951943] [0x00007f8b94aec780] [info]    [timestep=4790] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:28:55.930337] [0x00007f8b94aec780] [info]    [timestep=4800] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:28:56.908672] [0x00007f8b94aec780] [info]    [timestep=4810] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:28:57.887044] [0x00007f8b94aec780] [info]    [timestep=4820] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:28:58.865346] [0x00007f8b94aec780] [info]    [timestep=4830] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:28:59.843716] [0x00007f8b94aec780] [info]    [timestep=4840] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:29:00.822127] [0x00007f8b94aec780] [info]    [timestep=4850] planner returns
+number of new free agents: 0 number of new tasks: 0
+[2026-03-21 11:29:00.822321] [0x00007f8b94aec780] [info]    [timestep=4857] Agent 12 finishes task 14
+[2026-03-21 11:29:00.822328] [0x00007f8b94aec780] [info]    Task 50 is revealed
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:29:01.800442] [0x00007f8b94aec780] [info]    [timestep=4860] planner returns
+number of new free agents: 1 number of new tasks: 1
+[DefaultPlanner::plan] timing: time_limit=989ms, pibt_time_hint=1ms, flow_budget=977ms, setup_elapsed=977ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:29:02.779657] [0x00007f8b94aec780] [info]    [timestep=4870] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:29:03.757942] [0x00007f8b94aec780] [info]    [timestep=4880] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:29:04.736254] [0x00007f8b94aec780] [info]    [timestep=4890] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:29:05.714608] [0x00007f8b94aec780] [info]    [timestep=4900] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:29:06.692986] [0x00007f8b94aec780] [info]    [timestep=4910] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:29:07.671531] [0x00007f8b94aec780] [info]    [timestep=4920] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:29:08.649857] [0x00007f8b94aec780] [info]    [timestep=4930] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:29:09.628242] [0x00007f8b94aec780] [info]    [timestep=4940] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:29:10.606615] [0x00007f8b94aec780] [info]    [timestep=4950] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:29:11.585000] [0x00007f8b94aec780] [info]    [timestep=4960] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:29:12.563362] [0x00007f8b94aec780] [info]    [timestep=4970] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:29:13.541767] [0x00007f8b94aec780] [info]    [timestep=4980] planner returns
+number of new free agents: 0 number of new tasks: 0
+[DefaultPlanner::plan] timing: time_limit=990ms, pibt_time_hint=1ms, flow_budget=978ms, setup_elapsed=978ms
+[DefaultPlanner::plan] computed actions for 20 agents over 2 steps
+[2026-03-21 11:29:14.520172] [0x00007f8b94aec780] [info]    [timestep=4990] planner returns
+number of new free agents: 0 number of new tasks: 0
+elapsed=8:09.26 exit=0
