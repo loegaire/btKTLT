@@ -190,7 +190,5 @@ pgrep -af "lifelong --inputFile" || true
 pkill -9 -f "lifelong --inputFile" || true
 ```
 
-## Notes
-
+# Video: 
 - This repository already includes a recorded demo video: [robot-recording.mp4](robot-recording.mp4).
-- For teacher submission, include this repository link and the video.
