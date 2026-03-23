@@ -29,6 +29,33 @@ The Start-Kit planner now maintains a per-agent wait counter:
 - During planning, it overrides planned actions to `Action::W` while the counter is positive.
 - It skips the artificial initialization free-agent event at timestep `0`.
 
+## Exact code traceability (line-by-line)
+
+The following are the **exact code locations** responsible for the "stop at `X % 100`" behavior.
+
+| File | Starts at line | What it does |
+|---|---:|---|
+| `Start-Kit/inc/MAPFPlanner.h` | 13 | Declares `goal_wait_remaining` per-agent wait counters |
+| `Start-Kit/src/MAPFPlanner.cpp` | 16 | `initialize()` resets all counters to 0 |
+| `Start-Kit/src/MAPFPlanner.cpp` | 35 | `plan()` entrypoint for per-step wait logic |
+| `Start-Kit/src/MAPFPlanner.cpp` | 42 | Guard: only apply completion-based wait after real timesteps (`curr_timestep > 0`) |
+| `Start-Kit/src/MAPFPlanner.cpp` | 45 | Iterates `env->new_freeagents` (agents that just completed a task) |
+| `Start-Kit/src/MAPFPlanner.cpp` | 51 | Core rule: `goal_wait_remaining[agent_id] = max(0, goal_location % 100)` |
+| `Start-Kit/src/MAPFPlanner.cpp` | 63 | Applies waiting to each agent if counter > 0 |
+| `Start-Kit/src/MAPFPlanner.cpp` | 73 | Forces action to `Action::W` for required ticks |
+| `Start-Kit/src/MAPFPlanner.cpp` | 75 | Decrements remaining wait counter |
+
+### How to verify line numbers locally
+
+From repository root:
+
+```bash
+nl -ba Start-Kit/inc/MAPFPlanner.h | sed -n '1,80p'
+nl -ba Start-Kit/src/MAPFPlanner.cpp | sed -n '1,140p'
+```
+
+If your editor or formatter changes files, line numbers may shift slightly. In that case, use the commands above and match by code snippet names shown in the table.
+
 ## Prerequisites
 
 - Linux/macOS (or Windows with equivalent tooling)
@@ -190,5 +217,6 @@ pgrep -af "lifelong --inputFile" || true
 pkill -9 -f "lifelong --inputFile" || true
 ```
 
-# Video: 
-- This repository already includes a recorded demo video: [robot-recording.mp4](robot-recording.mp4).
+## Video
+
+- This repository includes the recorded demo video: [robot-recording.mp4](robot-recording.mp4).
