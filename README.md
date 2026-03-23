@@ -4,7 +4,9 @@ This repository contains my homework implementation for League of Robot Runners 
 
 ## Submission artifacts
 
-- Demo video: [robot-recording.mp4](robot-recording.mp4)
+- Demo video:
+- 	- [robot-recording.mp4](robot-recording.mp4)
+	- https://drive.google.com/file/d/1tw_XMo6daxAoVi0t1-hi_JZOhd0_rTtn/view?usp=sharing 
 - Modified planner files:
 	- `Start-Kit/inc/MAPFPlanner.h`
 	- `Start-Kit/src/MAPFPlanner.cpp`
